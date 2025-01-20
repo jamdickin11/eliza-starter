@@ -4,8 +4,8 @@ export const character: Character = {
     ...defaultCharacter,
     // name: "Eliza",
     // plugins: [],
-    // clients: [],
-    // modelProvider: ModelProviderName.OPENAI,
+    // clients: ["TWITTER"],
+    // modelProvider: ModelProviderName.OPENROUTER,
     // settings: {
     //     secrets: {},
     //     voice: {
